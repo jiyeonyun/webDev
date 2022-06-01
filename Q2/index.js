@@ -1,4 +1,4 @@
-let promptObj = prompt('수를 입력해주세요');
+// let promptObj = prompt('수를 입력해주세요');
 let num = Number(promptObj);
 
 
