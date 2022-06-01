@@ -1,0 +1,69 @@
+.nav{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.spanWrap{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.spanWrap{
+    display: flex;
+    flex-direction: row;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+}
+.search{
+    display: flex;
+    flex-direction: column;
+}
+.mainTitle{
+    text-align: center;
+}
+.inputWrap{
+    display: inline-flex;
+}
+.buttonWrap{
+    display: flex;
+    flex-direction: row;
+}
+.weather{
+    display: flex;
+    flex-direction: column;
+}
+.smallWeatherWrap{
+    display: inline-flex;
+    justify-content: space-between;
+}
+.smallWeather{
+    display: inline-flex;
+}
+.nowList{
+    display: inline-flex;
+}
+.mainWeatherWrap{
+    display: flex;
+    flex-direction: column;
+
+}
+.weatherP{
+    display: inline-flex;
+}
+.weatherButtonWrap{
+    display: inline-flex;
+}
+.button{
+    width: 120px;
+    height: 1rem;
+    border-radius: 0.3rem;
+    text-align: center;
+}
+.button:focus{
+    background-color: blue;
+    color: whitesmoke;
+}
